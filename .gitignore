@@ -7,7 +7,7 @@
 !.gitignore
 !.vscode
 !.semgrep/
-
+!.pi
 # Track only .claude/skills/; keep the rest of .claude/ (local settings, state) ignored.
 .claude
 !.claude/skills/
